@@ -10,11 +10,11 @@
 :: 1.0 Base CSS
 :: 2.0 Top Header Area CSS
 :: 3.0 Menu Area CSS
-:: 4.0 Wellcome Area CSS
-:: 5.0 Top Feature Area CSS
-:: 6.0 Blog Area CSS
-:: 7.0 Instagram Area CSS
-:: 8.0 Footer Social Area CSS
+:: 4.0 Wellcome Area CSS 
+:: 5.0 Top Feature Area CSS 
+:: 6.0 Blog Area CSS 
+:: 7.0 Instagram Area CSS 
+:: 8.0 Footer Social Area CSS 
 :: 9.0 Goole Map Area CSS
 :: 10.0 Sidebar Area CSS
 :: 11.0 Breadcumb Area CSS
@@ -53,41 +53,16 @@ body {
 }
 
 h1,
-h5,
+h2,
+h3,
 h4,
-h6, {
+h5,
+h6 {
     font-family: 'Quicksand', sans-serif;
     font-weight: 700;
     color: #232d37;
     line-height: 1.25;
 }
-
-
-
-h2 {
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 700;
-  color: #232d37;
-  line-height: 1.25;
-  font-size: 30px;
-}
-
-h3 {
-  font-family: 'Quicksand', sans-serif;
-  font-weight: 200;
-  font-size: 20px;
-  color: #429c42;
-  line-height: 1.25;
-  padding-left: 160px;
-  padding-right: 160px;
-  padding-top: 50px;
-
-}
-
-
-
-
-
 
 p {
     color: #51545f;
@@ -503,7 +478,7 @@ li {
 }
 
 /* --------------------
-:: 4.0 Wellcome Area CSS
+:: 4.0 Wellcome Area CSS 
 -------------------- */
 
 .welcome-single-slide {
@@ -594,7 +569,7 @@ li {
 }
 
 /* --------------------
-:: 5.0 Top Feature Area CSS
+:: 5.0 Top Feature Area CSS 
 -------------------- */
 
 .categories_area {
@@ -642,7 +617,7 @@ li {
 }
 
 /* --------------------
-:: 6.0 Blog Area CSS
+:: 6.0 Blog Area CSS 
 -------------------- */
 
 .post-thumb img {
@@ -769,7 +744,7 @@ li {
 }
 
 /* --------------------
-:: 7.0 Instagram Area CSS
+:: 7.0 Instagram Area CSS 
 -------------------- */
 
 .instagram_gallery_item {
@@ -836,7 +811,7 @@ li {
 
 
 /* --------------------
-:: 8.0 Footer Social Area CSS
+:: 8.0 Footer Social Area CSS 
 -------------------- */
 
 .footer-social-area {
@@ -906,7 +881,7 @@ li {
 -------------------- */
 
 #googleMap {
-    height: 1px;
+    height: 620px;
     width: 100%;
 }
 
@@ -922,7 +897,7 @@ li {
 }
 
 .widget-title > h6 {
-    background: #86bf35;
+    background: #fee2d9;
     height: 40px;
     width: 100%;
     line-height: 40px;
@@ -1179,7 +1154,7 @@ li {
 
 .contact-form .form-control,
 .comment-form .form-control {
-    border: 1px solid #429c42;
+    border: 1px solid #ebebeb;
     height: 50px;
 }
 
@@ -1201,7 +1176,7 @@ li {
     text-transform: uppercase;
     font-weight: 500;
     color: #fff;
-    background-color: #429c42;
+    background-color: #fc6c3f;
     border-radius: 30px;
 }
 
@@ -1215,7 +1190,7 @@ li {
     background-position: center center;
 }
 
-/* --------------------
+/* -------------------- 
 :: 14.0 Single Blog CSS
 -------------------- */
 
@@ -1494,7 +1469,7 @@ li {
 }
 
 #pattern-switcher:hover {
-	background-color: #429c42;
+	background-color: #e3410e;
 }
 
 #patter-close > i {
