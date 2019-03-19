@@ -54,7 +54,6 @@ body {
 
 h1,
 h2,
-h4,
 h5,
 h6 {
     font-family: 'Quicksand', sans-serif;
@@ -70,6 +69,18 @@ h3 {
   color: #429c42;
   line-height: 1.25;
   padding-left: 160px;
+  padding-right: 160px;
+
+}
+
+  h4 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    color: #fc6c3f;
+    line-height: 1.25;
+    padding-left: 160px;
+   }
 
 }
 
@@ -1163,7 +1174,7 @@ li {
 
 .contact-form .form-control,
 .comment-form .form-control {
-    border: 1px solid #ebebeb;
+    border: 1px solid #429c42;
     height: 50px;
 }
 
@@ -1185,7 +1196,7 @@ li {
     text-transform: uppercase;
     font-weight: 500;
     color: #fff;
-    background-color: #fc6c3f;
+    background-color: #429c42;
     border-radius: 30px;
 }
 
