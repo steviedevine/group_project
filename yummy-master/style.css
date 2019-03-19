@@ -54,7 +54,6 @@ body {
 
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
@@ -62,6 +61,16 @@ h6 {
     font-weight: 700;
     color: #232d37;
     line-height: 1.25;
+}
+
+h3 {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: #429c42;
+  line-height: 1.25;
+  padding-left: 160px;
+
 }
 
 p {
@@ -881,7 +890,7 @@ li {
 -------------------- */
 
 #googleMap {
-    height: 620px;
+    height: 1px;
     width: 100%;
 }
 
