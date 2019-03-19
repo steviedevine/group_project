@@ -53,15 +53,21 @@ body {
 }
 
 h1,
+h2,
 h5,
+<<<<<<< HEAD
 h4,
 h6, {
+=======
+h6 {
+>>>>>>> parent of 074b343... changes
     font-family: 'Quicksand', sans-serif;
     font-weight: 700;
     color: #232d37;
     line-height: 1.25;
 }
 
+<<<<<<< HEAD
 
 
 h2 {
@@ -72,6 +78,8 @@ h2 {
   font-size: 30px;
 }
 
+=======
+>>>>>>> parent of 074b343... changes
 h3 {
   font-family: 'Quicksand', sans-serif;
   font-weight: 200;
@@ -84,6 +92,17 @@ h3 {
 
 }
 
+<<<<<<< HEAD
+=======
+  h4 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-size: 40px;
+    color: #fc6c3f;
+    line-height: 1.25;
+    padding-left: 160px;
+   }
+>>>>>>> parent of 074b343... changes
 
 
 
