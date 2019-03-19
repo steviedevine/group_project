@@ -68,7 +68,8 @@ h1 {
   font-weight: 700;
   color: #232d37;
   line-height: 1.25;
-  font-size: 60px 
+  font-size: 30px;
+  padding-left: 550px;
 }
 
 h3 {
