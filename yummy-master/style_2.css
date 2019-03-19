@@ -520,7 +520,7 @@ li {
     bottom: -300px;
     left: 0;
     z-index: 3;
-    background: rgba(252, 108, 63, 0.7);
+    background: #429c42;
     padding: 30px;
     width: 100%;
     height: auto;
@@ -558,7 +558,7 @@ li {
     top: 10%;
     right: -14px;
     z-index: 2;
-    background-color: #fff;
+    background-color: #429c42;
 }
 
 
@@ -779,7 +779,7 @@ li {
 }
 
 .instagram_gallery_item .hover_overlay {
-    background: rgba(252, 108, 63, 0.7);
+    background: #429c42;
     height: 100%;
     left: 0;
     opacity: 0;
