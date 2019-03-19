@@ -240,6 +240,7 @@ a:active {
     transition-duration: 500ms;
     font-weight: 500;
     outline: none;
+    color: #429c42;
 }
 
 li {
@@ -908,7 +909,7 @@ li {
 }
 
 .widget-title > h6 {
-    background: #fee2d9;
+    background: #429c42;
     height: 40px;
     width: 100%;
     line-height: 40px;
@@ -1165,7 +1166,7 @@ li {
 
 .contact-form .form-control,
 .comment-form .form-control {
-    border: 1px solid #ebebeb;
+    border: 1px solid #429c42;
     height: 50px;
 }
 
